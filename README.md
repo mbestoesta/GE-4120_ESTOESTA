@@ -103,13 +103,13 @@ File: `ProjectDocumentation_ESTOESTA.pdf`
 
 ---
 
-# Activity 4 – Google Drive
+# Midterm – Google Drive
 
 This activity focuses on Google Drive, a cloud-based file storage and sharing service developed by Google. It allows users to store files online, access them across different devices, organize documents into folders, and share files with others. Google Drive also supports collaboration by allowing users to work on documents, spreadsheets, and presentations online.
 
 The PDF file contains the documentation and content for this activity.
 
-### Activity 4 PDF
+### Midterm PDF
 
 File: `Google Drive.pdf`
 
@@ -118,13 +118,3 @@ File: `Google Drive.pdf`
 [Download Google Drive.pdf](Google%20Drive.pdf)
 
 ---
-
-# Repository Structure
-
-The repository contains the following files and folders:
-
-- `Activity 1/` – Presentation design poster
-- `Activity 2/` – Personal branding kit outputs
-- `Activity 3/` – Infographic and project documentation report
-- `Google Drive.pdf` – Google Drive activity documentation
-- `README.md` – Repository overview and table of contents

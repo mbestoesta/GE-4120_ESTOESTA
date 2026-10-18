@@ -1,6 +1,7 @@
+
 # GE 4120 ESTOESTA
 
-A collection of three preliminary activities focused on visual design, personal branding, and technology-based communication. These activities demonstrate the application of design principles, typography, color theory, infographic development, and project documentation.
+A collection of four activities focused on visual design, personal branding, technology-based communication, and digital tools. These activities demonstrate the application of design principles, typography, color theory, infographic development, project documentation, and cloud-based file management.
 
 ---
 
@@ -9,7 +10,8 @@ A collection of three preliminary activities focused on visual design, personal 
 1. [Activity 1 – Presentation Design Principle](#activity-1--presentation-design-principle)
 2. [Activity 2 – Color Palette and Typography](#activity-2--color-palette-and-typography)
 3. [Activity 3 – Social Media Infographics and Mini Project Documentation](#activity-3--social-media-infographics-and-mini-project-documentation)
-4. [Repository Structure](#repository-structure)
+4. [Activity 4 – Google Drive](#activity-4--google-drive)
+5. [Repository Structure](#repository-structure)
 
 ---
 
@@ -98,3 +100,31 @@ The project documentation report presents a proposed IT- or technology-enabled s
 File: `ProjectDocumentation_ESTOESTA.pdf`
 
 [View ProjectDocumentation_ESTOESTA.pdf](Activity%203/ProjectDocumentation_ESTOESTA.pdf)
+
+---
+
+# Activity 4 – Google Drive
+
+This activity focuses on Google Drive, a cloud-based file storage and sharing service developed by Google. It allows users to store files online, access them across different devices, organize documents into folders, and share files with others. Google Drive also supports collaboration by allowing users to work on documents, spreadsheets, and presentations online.
+
+The PDF file contains the documentation and content for this activity.
+
+### Activity 4 PDF
+
+File: `Google Drive.pdf`
+
+[View Google Drive.pdf](Google%20Drive.pdf)
+
+[Download Google Drive.pdf](Google%20Drive.pdf)
+
+---
+
+# Repository Structure
+
+The repository contains the following files and folders:
+
+- `Activity 1/` – Presentation design poster
+- `Activity 2/` – Personal branding kit outputs
+- `Activity 3/` – Infographic and project documentation report
+- `Google Drive.pdf` – Google Drive activity documentation
+- `README.md` – Repository overview and table of contents

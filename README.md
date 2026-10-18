@@ -1,4 +1,4 @@
-# PRELIMS ESTOESTA
+# GE 4120 ESTOESTA
 
 A collection of three preliminary activities focused on visual design, personal branding, and technology-based communication. These activities demonstrate the application of design principles, typography, color theory, infographic development, and project documentation.
 

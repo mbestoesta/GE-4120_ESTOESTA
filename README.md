@@ -10,7 +10,7 @@ A collection of four activities focused on visual design, personal branding, tec
 1. [Activity 1 – Presentation Design Principle](#activity-1--presentation-design-principle)
 2. [Activity 2 – Color Palette and Typography](#activity-2--color-palette-and-typography)
 3. [Activity 3 – Social Media Infographics and Mini Project Documentation](#activity-3--social-media-infographics-and-mini-project-documentation)
-4. [Midterm – Google Drive](#activity-4--google-drive)
+4. [Midterm – Google Drive](#midterm--google-drive)
 
 ---
 

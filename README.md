@@ -145,7 +145,7 @@ This activity focused on creating a one-page advocacy website using Replit AI. T
 
 ### Activity Output
 
-[**View palanca ni eka.pdf**](Activity%206/palanca%20ni%20eka.pdf)
+[**View ESTOESTA_ACTIVITY6.pdf**](Activity%206/ESTOESTA%20ACTIVITY6.pdf)
 
 ---
 

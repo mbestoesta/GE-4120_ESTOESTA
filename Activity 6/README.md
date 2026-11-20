@@ -1,5 +1,5 @@
 
-# Activity 6: Website Creation Using Replit AI
+# Activity 6: Making a Website
 
 ## Description
 This activity focused on creating a one-page advocacy website using Replit AI. The website, titled "Paws of Hope," promotes the adoption of stray dogs and encourages people to provide homeless animals with safe and loving homes.

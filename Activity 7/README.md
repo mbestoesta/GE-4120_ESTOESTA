@@ -1,5 +1,5 @@
 
-# Activity 7: AI-Generated Resume Comparison
+# Activity 7: Resume Generating
 
 ## Description
 This activity focused on using two different AI tools to generate a professional resume using the same information. The outputs were compared based on their design, content, organization, and overall presentation to determine which resume was more suitable.

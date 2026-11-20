@@ -117,7 +117,7 @@ This activity focused on learning how to use Google Drive for storing, organizin
 
 <div align="center" id="activity-5">
 
-<img src="Others/5-Header.png" width="100%" alt="Activity 5 Header">
+<img src="Others/5-Header.png" width="100%" alt="Activity 5-Header">
 
 </div>
 
@@ -177,7 +177,7 @@ This activity focused on using two different AI tools to generate a professional
 
 **THANK YOU FOR VISITING MY PORTFOLIO!**
 
-*GE 4120 | Technology for Teaching and Learning*
+*GE 4120 
 
 **Maryieka B. Estoesta**  
 BSN 4F | Ateneo de Davao University

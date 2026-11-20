@@ -1,11 +1,4 @@
-
-<!-- ================= ACTIVITY 1 ================= -->
-
-<div align="center" id="activity-1">
-
-<img src="Others/1-Header.png" width="100%" alt="Activity 1 Header">
-
-</div>
+# Activity 1 - Presentational Design Principle
 
 ## Description
 This activity focused on creating a promotional poster for a hypothetical free coffee event using Canva. It applied visual design principles such as layout, visual hierarchy, readability, and effective communication of information.

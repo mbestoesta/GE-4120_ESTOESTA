@@ -1,5 +1,5 @@
 
-# Activity 2: Color Pallete Typography
+# Activity 2: Color Palette and Typography
 
 ## Description
 This activity focused on creating a personal branding kit to establish a consistent visual identity. It included a personal logo, tagline, color palette, typography set, and resume header.

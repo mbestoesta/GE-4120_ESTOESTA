@@ -1,5 +1,5 @@
 
-# Activity 3: Infographic and Project Documentation Report
+# Activity 3: Social Media Infographic and Mini Project Documentation
 
 ## Description
 This activity focused on presenting information through a one-page infographic and creating a project documentation report. It involved identifying a real-world problem, presenting relevant information, and proposing a technology-based solution.

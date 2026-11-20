@@ -1,3 +1,20 @@
-# Activity 1
 
-This folder contains my files and outputs for Activity 1.
+# Activity 1: Promotional Poster Using Canva
+
+## Description
+This activity focused on creating a promotional poster for a hypothetical free coffee event using Canva. It applied visual design principles such as layout, visual hierarchy, readability, and effective communication of information.
+
+## What I Have Learned
+- Learned how to create an attractive and organized poster using Canva.
+- Understood the importance of colors, fonts, and proper layout.
+- Improved my visual design and creativity skills.
+- Learned how to present information clearly and effectively.
+
+## Tools Used
+- Canva
+
+## Skills Gained
+- Graphic Design
+- Visual Communication
+- Creativity
+- Layout and Typography

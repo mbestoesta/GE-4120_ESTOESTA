@@ -141,7 +141,7 @@ This activity focused on exploring an AI tool by creating an initial prompt, rev
 
 ### Description
 
-This activity focused on creating a one-page advocacy website using Replit AI. The website, titled **PAWS & LOVE**, promotes the adoption of stray dogs and encourages people to provide homeless animals with safe and loving homes.
+This activity focused on creating a one-page advocacy website using Replit AI. The website, titled **Paws of Hope**, promotes the adoption of stray dogs and encourages people to provide homeless animals with safe and loving homes.
 
 ### Activity Output
 

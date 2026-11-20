@@ -1,5 +1,5 @@
 
-# Activity 5: AI Prompting and Output Comparison
+# Activity 5: AI Tools Activity
 
 ## Description
 This activity focused on exploring an AI tool by creating an initial prompt, reviewing its generated output, improving the prompt, and comparing the results. It demonstrated how clear and specific instructions can affect AI-generated responses.
